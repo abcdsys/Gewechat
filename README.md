@@ -6,11 +6,6 @@
 
 [针对违规获取及利用微信终端用户数据行为的打击公告](https://mp.weixin.qq.com/s/A6h4ZLTE2EPrY7kJ5fHE2g)
 
-
-<p align="center">
-  <img src="logo.png" width="500px" height="350px" alt=" Logo">
-</p>
-
 ## 👉 Gewechat🤖
 
 个人微信开源框架，支持二次开发、任意语言都可接入，Restful API接入。
